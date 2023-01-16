@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fruts</string>
+    <string name="karpushin_kirill_gr303">Karpushin Kirill gr303</string>
+    <string name="button">Button</string>
+    <string name="apple">Apple</string>
+    <string name="strawberry">Strawberry</string>
+    <string name="blueberry">Blueberry</string>
+    <string name="potatoes">Potatoes</string>
+</resources>
